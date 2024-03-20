@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Lisdiyanto!</h1>
 <h3 align="center">A Student learning its way to become a frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif>"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vintech05&label=Profile%20views&color=0e75b6&style=flat" alt="vintech05" /> </p>
 
