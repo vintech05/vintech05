@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Web Layout, Responsive Design, Javascript**
 
-- 📫 How to reach me **kelanjutannyakelvin@gmail.com**
+- 📫 How to reach me: **kelanjutannyakelvin@gmail.com**
 
-- 🌐 Today's word **if its working, don't touch it.**
+- 🌐 Today's words: **if its working, don't touch it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
