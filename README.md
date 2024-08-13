@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with [todo-app](https://github.com/vintech05/todo-app)
-
 - 👨‍💻 All of my projects are available at [https://portfolio-v1-one-nu.vercel.app/](https://portfolio-v1-one-nu.vercel.app/)
 
 - 💬 Ask me about **Web Layout, Responsive Design, Javascript**
